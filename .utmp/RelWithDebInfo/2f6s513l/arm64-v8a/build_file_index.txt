@@ -1,0 +1,2 @@
+C:\Unity\MoMu Project\Immersive-Experience_MoMu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Unity\MoMu Project\Immersive-Experience_MoMu\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
